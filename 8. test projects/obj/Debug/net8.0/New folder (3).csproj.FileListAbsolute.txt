@@ -1,0 +1,4 @@
+C:\Users\hhp57\New folder (3)\obj\Debug\net8.0\New folder (3).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hhp57\New folder (3)\obj\Debug\net8.0\New folder (3).AssemblyInfoInputs.cache
+C:\Users\hhp57\New folder (3)\obj\Debug\net8.0\New folder (3).AssemblyInfo.cs
+C:\Users\hhp57\New folder (3)\obj\Debug\net8.0\New folder (3).csproj.CoreCompileInputs.cache
